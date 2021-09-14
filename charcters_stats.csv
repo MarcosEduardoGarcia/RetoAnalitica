@@ -27,7 +27,7 @@ Ant-Man,good,100,10,23,28,32,32,225
 Ant-Man II,good,63,10,23,28,32,28,184
 Anti-Monitor,bad,88,90,38,90,100,90,496
 Anti-Spawn,bad,1,1,1,1,0,1,5
-Anti-Venom,,75,60,65,90,85,84,459
+Anti-Venom,neutral,75,60,65,90,85,84,459
 Apocalypse,bad,100,100,33,100,100,60,493
 Aquababy,good,10,16,12,14,37,14,103
 Aqualad,good,63,44,42,75,76,60,360
@@ -97,7 +97,7 @@ Black Widow,good,75,13,27,32,32,100,279
 Black Widow II,good,1,1,1,1,0,1,5
 Blackout,bad,63,32,45,80,38,65,323
 Blackwing,bad,38,10,35,32,20,56,191
-Blackwulf,,50,28,8,30,59,25,200
+Blackwulf,bad,50,28,8,30,59,25,200
 Blade,good,63,28,38,50,33,90,302
 Blaquesmith,good,1,1,1,1,0,1,5
 Bling!,good,69,14,12,90,52,28,265
@@ -559,7 +559,7 @@ Titan,good,1,1,1,1,0,1,5
 Toad,neutral,50,34,58,56,49,28,275
 Toxin,good,56,73,70,84,75,70,428
 Tracy Strauss,good,1,1,1,1,0,1,5
-Trickster,,1,1,1,1,0,1,5
+Trickster,bad,1,1,1,1,0,1,5
 Triplicate Girl,good,63,10,23,42,44,42,224
 Two-Face,bad,88,10,12,14,9,28,161
 Ultragirl,good,50,80,35,70,35,80,350
